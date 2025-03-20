@@ -4,14 +4,14 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=00C7AC&center=true&vCenter=true&width=500&lines=Frontend+Developer;Passionate+about+UI%2FUX+Design;Loves+Clean+and+Reusable+Code" />
 </p>
 
----
+<br />
 
 ## 🌟 소개
 - 🎨 사용자 친화적인 인터페이스를 만드는 프론트엔드 개발자입니다.
 - 💡 **깔끔하고 재사용 가능한 코드**를 작성하는 것을 중요하게 생각합니다.
 - 🌱 현재 **Next.js, TDD**를 공부하고 있습니다.
 
----
+<br />
 
 ## 🚀 기술 스택
 
@@ -43,7 +43,7 @@
 ![StarUML](https://img.shields.io/badge/-StarUML-000000?style=flat&logo=uml&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
----
+<br />
 
 ## 📊 깃허브 통계
 
@@ -52,7 +52,7 @@
 <!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourgithubusername&theme=radical&hide_border=true" width="48%" /> -->
 </p>
 
----
+<br />
 
 ## 📫 연락하기
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:qhdud20@naver.com)
